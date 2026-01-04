@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "bluera-knowledge",
-      "source": "https://github.com/blueraai/bluera-knowledge",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/blueraai/bluera-knowledge.git"
+      },
       "description": "Project-specific knowledge stores for definitive library sources. Clone and index important dependencies for authoritative reference.",
       "version": "0.9.2"
     }
