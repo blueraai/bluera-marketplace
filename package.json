@@ -1,6 +1,6 @@
 {
   "name": "bluera-marketplace",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "Claude Code plugin marketplace for Bluera Inc",
   "scripts": {
