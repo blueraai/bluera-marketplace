@@ -14,7 +14,7 @@
         "source": "url",
         "url": "https://github.com/blueraai/bluera-knowledge.git"
       },
-      "description": "Project-specific knowledge stores for definitive library sources. Clone and index important dependencies for authoritative reference.",
+      "description": "Clone repos, crawl docs, search locally. Fast, authoritative answers for AI coding agents without web lookups.",
       "version": "0.9.2",
       "homepage": "https://github.com/blueraai/bluera-knowledge"
     }
