@@ -15,7 +15,7 @@
         "url": "https://github.com/blueraai/bluera-knowledge.git"
       },
       "description": "Clone repos, crawl docs, search locally. Fast, authoritative answers for AI coding agents without web lookups.",
-      "version": "0.9.9",
+      "version": "0.9.11",
       "homepage": "https://github.com/blueraai/bluera-knowledge"
     }
   ]
