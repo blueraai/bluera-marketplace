@@ -1,0 +1,12 @@
+{
+  "name": "bluera-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude Code plugin marketplace for Bluera Inc",
+  "scripts": {
+    "release:patch": "npm version patch --no-git-tag-version && npm run release:finish",
+    "release:minor": "npm version minor --no-git-tag-version && npm run release:finish",
+    "release:major": "npm version major --no-git-tag-version && npm run release:finish",
+    "release:finish": "git add package.json && git commit -m \"chore: release v$(node -p \"require('./package.json').version\")\" && git tag v$(node -p \"require('./package.json').version\") && git push && git push --tags"
+  }
+}
