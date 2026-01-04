@@ -48,6 +48,28 @@ The marketplace is the **source of truth** for available plugins and versions. C
 4. Push both repos
 5. Users run `/plugin marketplace update bluera` or rely on auto-update
 
+## Releasing
+
+The marketplace uses semantic versioning independent of plugin versions. Bump the marketplace version when:
+- **patch** - Fix marketplace.json formatting, typos, or metadata
+- **minor** - Add new plugins to the marketplace
+- **major** - Breaking schema changes
+
+```bash
+# Bump version, commit, tag, and push (triggers GitHub Actions release)
+npm run release:patch
+npm run release:minor
+npm run release:major
+
+# If version already bumped but not tagged
+npm run release:current
+```
+
+**Workflow:**
+1. Update `marketplace.json` as needed
+2. When ready to release: `npm run release:patch` (or minor/major)
+3. GitHub Actions creates the Release with auto-generated notes
+
 ## License
 
 MIT
