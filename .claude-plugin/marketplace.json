@@ -19,14 +19,14 @@
       "homepage": "https://github.com/blueraai/bluera-knowledge"
     },
     {
-      "name": "claude-code-plugin-reference-implementation",
+      "name": "claude-code-anywhere",
       "source": {
         "source": "url",
-        "url": "https://github.com/blueraai/claude-code-plugin-reference-implementation.git"
+        "url": "https://github.com/blueraai/claude-code-anywhere.git"
       },
-      "description": "Comprehensive reference plugin demonstrating all Claude Code plugin capabilities",
-      "version": "0.1.2",
-      "homepage": "https://github.com/blueraai/claude-code-plugin-reference-implementation"
+      "description": "Email and Telegram notifications for Claude Code. Get pinged when tasks complete, approve operations remotely.",
+      "version": "0.2.1",
+      "homepage": "https://github.com/blueraai/claude-code-anywhere"
     }
   ]
 }
