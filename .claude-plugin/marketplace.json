@@ -25,7 +25,7 @@
         "url": "https://github.com/blueraai/claude-code-plugin-reference-implementation.git"
       },
       "description": "Comprehensive reference plugin demonstrating all Claude Code plugin capabilities",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "homepage": "https://github.com/blueraai/claude-code-plugin-reference-implementation"
     }
   ]
