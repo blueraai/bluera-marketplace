@@ -25,7 +25,7 @@
         "url": "https://github.com/blueraai/claude-code-anywhere.git"
       },
       "description": "Email and Telegram notifications for Claude Code. Get pinged when tasks complete, approve operations remotely.",
-      "version": "0.6.18",
+      "version": "0.6.19",
       "homepage": "https://github.com/blueraai/claude-code-anywhere"
     }
   ]
