@@ -15,7 +15,7 @@
         "url": "https://github.com/blueraai/bluera-base.git"
       },
       "description": "Shared development conventions for Bluera projects - hooks, skills, CLAUDE.md patterns",
-      "version": "0.14.2",
+      "version": "0.15.0",
       "homepage": "https://github.com/blueraai/bluera-base"
     },
     {
