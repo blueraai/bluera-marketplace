@@ -29,14 +29,14 @@
       "homepage": "https://github.com/blueraai/bluera-knowledge"
     },
     {
-      "name": "claude-code-anywhere",
+      "name": "bluera-claude-planner",
       "source": {
         "source": "url",
-        "url": "https://github.com/blueraai/claude-code-anywhere.git"
+        "url": "https://github.com/blueraai/bluera-claude-planner.git"
       },
-      "description": "Email and Telegram notifications for Claude Code. Get pinged when tasks complete, approve operations remotely.",
-      "version": "0.6.30",
-      "homepage": "https://github.com/blueraai/claude-code-anywhere"
+      "description": "Cross-AI plan review — uses OpenAI Codex to review Claude Code plans before implementation begins.",
+      "version": "0.2.0",
+      "homepage": "https://github.com/blueraai/bluera-claude-planner"
     }
   ]
 }
