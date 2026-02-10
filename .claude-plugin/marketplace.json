@@ -35,7 +35,7 @@
         "url": "https://github.com/blueraai/bluera-claude-planner.git"
       },
       "description": "Cross-AI plan review — uses OpenAI Codex to review Claude Code plans before implementation begins.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "homepage": "https://github.com/blueraai/bluera-claude-planner"
     }
   ]
